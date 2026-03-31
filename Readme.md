@@ -43,15 +43,9 @@ cd diabetes-predictor
 pip install pandas scikit-learn flask
 ```
 
-### 3. Train the Model
-Run the training script to generate the `diab.pkl` file:
+### 3. Run the Flask App
 ```bash
-python train_model.py
-```
-
-### 4. Run the Flask App
-```bash
-python app.py
+flask run 
 ```
 
 Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
