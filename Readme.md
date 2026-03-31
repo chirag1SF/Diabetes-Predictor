@@ -34,8 +34,8 @@ The model is trained on `diabetes.csv`. To optimize performance and focus on phy
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/diabetes-predictor.git
-cd diabetes-predictor
+git clone https://github.com/your-username/Diabetes-Predictor.git
+cd Diabetes-Predictor
 ```
 
 ### 2. Install Dependencies
